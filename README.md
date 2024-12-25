@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm Vamshi Shetty! 👋
 
-<!--
-**vshetty26/vshetty26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate learner and enthusiast exploring the exciting intersection of *design, **technology, and **coding*. 
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•⁠  ⁠*Design*:  
+  - Figma (UI/UX Design, Prototyping)
+  
+•⁠  ⁠*Programming Languages*:  
+  - *C++* (Algorithms, Data Structures)
+  - *Python* (Scripting, Automation, AI/ML)
+  
+•⁠  ⁠*Databases*:  
+  - SQL (Data Management, Querying)
+
+•⁠  ⁠*Version Control*:  
+  - Git (Version Control, Collaboration)
+  - GitHub (Repositories, Code Sharing)
+
+---
+
+## 📈 Current Goals
+
+•⁠  ⁠Designing creativity with tech — creating user-friendly, beautiful, and functional designs.
+•⁠  ⁠Learning new technologies — diving deeper into the world of *AI, **Machine Learning, and **Web Development*.
+•⁠  ⁠Building full-stack applications that blend UI/UX design with seamless code.
+
+---
+
+## 📚 Let's Connect!
+vamshishetty26@gmail.com
+https://www.linkedin.com/in/vamshi-shetty-ab15b9318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Feel free to explore my repositories.
