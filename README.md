@@ -33,4 +33,13 @@ Welcome to my GitHub profile! I'm a passionate learner and enthusiast exploring 
 - Email: vamshishetty26@gmail.com  
 - LinkedIn: [Vamshi Shetty](https://www.linkedin.com/in/vamshi-shetty-ab15b9318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vshetty26&show_icons=true&locale=en&layout=compact" alt="vshetty26" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vshetty26&show_icons=true&locale=en" alt="vshetty26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vshetty26&" alt="vshetty26" /></p>
+
+
+
 Feel free to explore my repositories.
