@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate learner and enthusiast exploring 
   - Figma (UI/UX Design, Prototyping)
 
 **• Programming Languages**  
+  - MERN
   - C++ (Algorithms, Data Structures)  
   - Python (Scripting, Automation, AI/ML)
 
